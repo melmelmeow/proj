@@ -32,7 +32,7 @@ DeleteStudent();
 break;
 case "5":
 ListAllStudents();
-break;
+break:
 case "6":
 Console.WriteLine("Exiting the registration.");
 return;
