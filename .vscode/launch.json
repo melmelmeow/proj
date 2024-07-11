@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "type": "coreclr",
+        "request": "launch",
+        "name": "C# Launch (Attach)",
+        "justMyCode": true,
+        "corelrun": "pwd",
+        "args": ["-a", "1", "2", "3"],
+        "cwd": "${workspaceFolder}",
+        "program": "${workspaceFolder}/bin/Debug/Program.exe",
+        "env": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "console": "internalConsole",
+  
+
+        }
+    ]
+}
