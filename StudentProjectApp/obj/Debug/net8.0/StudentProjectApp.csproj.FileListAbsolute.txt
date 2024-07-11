@@ -1,0 +1,15 @@
+c:\Users\carey\choya\proj\StudentProjectApp\bin\Debug\net8.0\StudentProjectApp.exe
+c:\Users\carey\choya\proj\StudentProjectApp\bin\Debug\net8.0\StudentProjectApp.deps.json
+c:\Users\carey\choya\proj\StudentProjectApp\bin\Debug\net8.0\StudentProjectApp.runtimeconfig.json
+c:\Users\carey\choya\proj\StudentProjectApp\bin\Debug\net8.0\StudentProjectApp.dll
+c:\Users\carey\choya\proj\StudentProjectApp\bin\Debug\net8.0\StudentProjectApp.pdb
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.AssemblyInfoInputs.cache
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.AssemblyInfo.cs
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.csproj.CoreCompileInputs.cache
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.sourcelink.json
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.dll
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\refint\StudentProjectApp.dll
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.pdb
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\StudentProjectApp.genruntimeconfig.cache
+c:\Users\carey\choya\proj\StudentProjectApp\obj\Debug\net8.0\ref\StudentProjectApp.dll
